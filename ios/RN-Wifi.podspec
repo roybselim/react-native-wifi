@@ -1,12 +1,12 @@
 
 Pod::Spec.new do |s|
-  s.name         = "RNWifi"
+  s.name         = "RN-Wifi"
   s.version      = "1.0.0"
-  s.summary      = "RNWifi"
+  s.summary      = "RN-Wifi"
   s.description  = <<-DESC
                   RNWifi
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/GamgeeNL/react-native-wifi"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
